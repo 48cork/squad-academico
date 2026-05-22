@@ -1,0 +1,52 @@
+generated_at: "2026-05-22T00:00:00"
+project_name: squad-academico
+
+system:
+  os: Ubuntu 24.04.4 LTS (WSL2)
+  architecture: x86_64
+  kernel: 6.6.87.2-microsoft-standard-WSL2
+
+cli_tools:
+  git:
+    installed: true
+    version: "2.43.0"
+  gh:
+    installed: true
+    version: "2.45.0"
+    authenticated: true
+    account: 48cork
+  node:
+    installed: true
+    version: "20.20.2"
+  npm:
+    installed: true
+    version: "10.8.2"
+  supabase:
+    installed: true
+    version: "2.98.2"
+  railway:
+    installed: false
+  docker:
+    installed: true
+    version: "29.1.3"
+  coderabbit:
+    installed: false
+    note: "Install with: curl -fsSL https://coderabbit.ai/install.sh | bash"
+  pnpm:
+    installed: false
+  bun:
+    installed: false
+
+repository:
+  initialized: true
+  remote_url: "https://github.com/48cork/squad-academico"
+  branch: main
+
+validation:
+  essential_complete: true
+  recommended_complete: false
+  ready_for_development: true
+
+bootstrap_options:
+  tools_skipped: [railway, coderabbit, pnpm, bun]
+  reason: user_choice
