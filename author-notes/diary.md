@@ -3,3 +3,9 @@ Ora, uma explicação meramente institucional não da dimensão da construção 
 Pergunta 4
 Por que os engenheiros que calibram a IA são o locus relevante, e não os que coletam dados, os que definem os requisitos, ou os próprios usuários?
 Os engenheiros que calibram as IAs são o locus relevante pois eles tem subjetividades formadas em uma sociedade que viveu 450 anos imersa na escravidão. São ele que aprenderam a viver na sociedade de negação do racismos ainda que sea a nação com maior população negra fora da África, aprenderam a socialização na sociedade do mito da democracia racial. Ele por mais boas intecoes que portem reproduzem em suas subjetividade essa estrutura, o habitus da naturalização da desigualdade.  Se todas as demais categorias foram sociabilizadas nessa mesma sociedade, os engenheiros são a peca chave pois eles estão na posição de criar novas disposições de maneira categóricas, os demais ainda que exercam um dada influencia não tem o poder "magico dos engenheiros". Estes tem o poder categórico de aprofundar e criar novas formas de disposição. 
+
+Como você responderia ao crítico que disser que seu argumento confunde mecanismo estrutural com psicologia individual — ainda que socialmente formada?
+
+Acredito que Durkheim já respondeu a essa questão. A ia não e apenas um aplicativo individual, ela moda mentalidades coletivas. Poderia dizer que as duas dimensões convivem mutuamente. Sempre pergunto aos meus alunos se quando eles acordam o que ele pensam em fazer. A maioria esmagadora dizem que vão ao celular. Como diz o Professor Paulo  Ghiraldelli, o capitalismo 4.0 não precisa mais usar da violência pois ele conquistou a alma dos explorados. A subjetividade do nosso momento atual e forjada pelo algoritmo que forjou homens fantasmas guiados pela ansiedade de duas dimensões, a psíquica, individual da falta de sentido e a coletiva do homem fantasma sem proposito
+
+
