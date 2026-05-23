@@ -45,7 +45,7 @@ Poderia objetar-se que a análise até aqui oscila entre o estrutural e o psicol
 
 A IA não é apenas um aplicativo de uso individual. Ela molda mentalidades coletivas. As duas dimensões — a psíquica e a coletiva — convivem mutuamente, e é precisamente na sua articulação que reside o problema.
 
-Costumo perguntar aos meus alunos, ao início das aulas, o que fazem quando acordam. A maioria esmagadora responde, sem hesitar: vai ao celular. Como sustenta o professor Paulo Ghiraldelli, o capitalismo em sua fase atual não precisa mais recorrer à violência direta, pois conquistou a alma dos explorados (GHIRALDELLI JR., [verificar obra e ano]). A subjetividade do nosso momento histórico é forjada pelo algoritmo. E esse algoritmo forjou — está forjando — o que se poderia chamar de homens fantasmas: guiados pela ansiedade em duas dimensões simultâneas, a psíquica e individual da falta de sentido, e a coletiva do homem sem propósito, sem territorialidade subjetiva, sem pertencimento.
+Costumo perguntar aos meus alunos, ao início das aulas, o que fazem quando acordam. A maioria esmagadora responde, sem hesitar: vai ao celular. Como sustenta Paulo Ghiraldelli Jr., o capitalismo em sua fase atual não precisa mais recorrer à violência direta, pois conquistou a alma dos explorados — operando, em vez disso, pela captura da subjetividade via infosfera e algoritmo (GHIRALDELLI JR.; CABELO-GHIRALDELLI, 2025). A subjetividade do nosso momento histórico é forjada pelo algoritmo. E esse algoritmo forjou — está forjando — o que se poderia chamar de homens fantasmas: guiados pela ansiedade em duas dimensões simultâneas, a psíquica e individual da falta de sentido, e a coletiva do homem sem propósito, sem territorialidade subjetiva, sem pertencimento.
 
 Este fato não ocorre por mero acaso. A IA tem classe social porque foi feita por quem tem. E porque, ao ser feita assim, reproduz — de maneira estrutural, não intencional, e por isso tanto mais deletéria — a ordem que a produziu.
 
@@ -77,7 +77,7 @@ DURKHEIM, Émile. *As regras do método sociológico*. 3. ed. São Paulo: Martin
 
 FERNANDES, Florestan. *A integração do negro na sociedade de classes*. 3. ed. São Paulo: Ática, 1978. [1. ed. 1965]
 
-GHIRALDELLI JR., Paulo. [verificar obra e ano — citação oral/conferência referida pelo autor]
+GHIRALDELLI JR., Paulo; CABELO-GHIRALDELLI, Mariangela. *Capitalismo 4.0: Sociedades e Subjetividades*. São Paulo: CEFA Editorial, 2025.
 
 GRAY, Mary L.; SURI, Siddharth. *Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass*. New York: Houghton Mifflin Harcourt, 2019.
 
