@@ -127,7 +127,9 @@ Estrutura fixa para cada conceito (8–9 min cada):
 
 *Conceito:* Distinção digital é o processo pelo qual o uso de certas tecnologias, plataformas ou práticas digitais funciona como marcador de posição social — sinalizando pertencimento a um grupo e diferenciação em relação a outros. A distinção não está na tecnologia em si, mas no uso socialmente posicionado que se faz dela.
 
-*Aplicação:* A exclusão digital não é apenas ausência de acesso. É também o constrangimento de usar ferramentas marcadas como "de baixo" em campos onde isso importa.
+*Aprofundamento — o caso Facebook/Instagram não é apenas geracional:* A migração dos adolescentes para o Instagram quando os pais chegaram ao Facebook é frequentemente lida como fenômeno geracional puro. Mas Bourdieu mostraria que é simultaneamente geracional e de classe: as crianças reproduzem a posição de classe dos pais por meio da transmissão do habitus — inclusive o habitus digital. A fuga para outra plataforma não é apenas rebeldia adolescente; é a recusa simbólica de compartilhar um espaço com quem ocupa uma posição diferente no espaço social. A migração de plataformas é uma forma de capital distribuída desigualmente por classe: quem tem capital cultural suficiente para reconhecer o movimento e se reposicionar a tempo mantém a distinção; quem não tem chega sempre ao espaço já desvalorizado. O LinkedIn é o exemplo mais transparente dessa lógica: sua hierarquia de posições é explícita, sua linguagem é a da classe profissional, e sua própria existência como plataforma de prestígio depende de que nem todos possam entrar com as credenciais valorizadas.
+
+*Aplicação:* A exclusão digital não é apenas ausência de acesso. É também o constrangimento de usar ferramentas marcadas como "de baixo" em campos onde isso importa — e a impossibilidade de acompanhar a migração contínua das elites para os espaços ainda não contaminados pela presença popular.
 
 ---
 
@@ -221,7 +223,15 @@ Fechar o bloco voltando à pergunta do início da Aula 1: *"Quem fez essa escolh
 
 ### Sequência
 
-**[0–15 min] Apresentação do texto**
+**[0–15 min] Apresentação do artigo e do texto**
+
+Antes de distribuir o PDF, apresentar o artigo em produção:
+
+**Título:** *A IA tem classe social? Violência simbólica algorítmica, colonialidade e o ChatGPT no sertão brasileiro*
+
+**Título em inglês:** *Does AI Have a Social Class? Algorithmic Symbolic Violence, Coloniality, and ChatGPT in the Brazilian Semiárido*
+
+Este é o artigo real sendo escrito — não um exercício didático, não uma simulação. O destino é um periódico internacional de sociologia digital (ex: *New Media & Society*, *Big Data & Society*). Os dados produzidos por vocês nesta turma — suas análises das respostas do ChatGPT às personas de classe — serão examinados como evidência empírica e, se analiticamente relevantes, incorporados à versão final com crédito explícito à turma.
 
 Distribuir o PDF [`para-os-alunos.pdf`](../author-notes/para-os-alunos.pdf) ou projetar.
 

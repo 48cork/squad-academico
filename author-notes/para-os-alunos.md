@@ -1,5 +1,10 @@
 # A IA tem classe social?
-### Versão para estudantes de graduação — UFCG Cajazeiras
+### Violência simbólica algorítmica, colonialidade e o ChatGPT no sertão brasileiro
+*Does AI Have a Social Class? Algorithmic Symbolic Violence, Coloniality, and ChatGPT in the Brazilian Semiárido*
+
+---
+
+**Versão para estudantes de graduação — UFCG Cajazeiras**
 
 ---
 
