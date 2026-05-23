@@ -30,6 +30,7 @@
 **[0–10 min] Seção 01 — Abertura Provocativa**
 
 Abrir com os três dados sobre desigualdade algorítmica sem apresentação, sem contexto, sem teoria. Deixar o desconforto produzir a pergunta. Exemplos:
+
 - Sistemas de reconhecimento facial com taxa de erro 35% maior em rostos negros (Buolamwini & Gebru, 2018)
 - Algoritmos de crédito que penalizam CEPs periféricos independentemente da renda declarada
 - Plataformas de emprego que filtram currículos com nomes negros antes de qualquer leitura humana
@@ -43,6 +44,7 @@ Não responder ainda. Anotar as respostas na lousa — elas voltam no final do b
 Não apresentar Bourdieu como teórico abstrato. Apresentá-lo como alguém que viveu o problema.
 
 Pontos obrigatórios da linha do tempo:
+
 - Nascido em Denguin, Béarn — interior rural da França, filho de funcionário dos correios
 - Admitido na École Normale Supérieure — a instituição que forma a elite intelectual francesa
 - A contradição vivida: pertencer a um campo do qual era, por origem, excluído
@@ -202,7 +204,9 @@ Fechar o bloco voltando à pergunta do início da Aula 1: *"Quem fez essa escolh
 ## Aula 4 — Pesquisa em Andamento: o Experimento Maria e Ana
 
 **Formato:** Texto + discussão + lançamento do trabalho de campo
+
 **Material de referência:** [`author-notes/para-os-alunos.pdf`](../author-notes/para-os-alunos.pdf)
+
 **Duração:** 1 aula completa
 
 ---
@@ -232,6 +236,7 @@ Ler coletivamente a **Nota aos alunos** em voz alta. Perguntar: *"Alguém tem d�
 Apresentar o desenho do experimento. Dois perfis de usuário são construídos e submetidos ao ChatGPT com perguntas idênticas:
 
 **Maria** — persona de classe popular:
+
 - Moradora de bairro periférico
 - Ensino médio completo, trabalhadora
 - Acesso à internet pelo celular
@@ -239,6 +244,7 @@ Apresentar o desenho do experimento. Dois perfis de usuário são construídos e
 - Perguntas formuladas de forma direta e simples
 
 **Ana** — persona de classe média-alta:
+
 - Moradora de bairro nobre
 - Estudante universitária, família de profissionais liberais
 - Acesso à internet por computador e celular
