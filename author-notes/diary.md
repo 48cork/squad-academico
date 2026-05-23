@@ -17,3 +17,5 @@ Essa categoria é possível, ou o argumento a descarta por design?  O engenheiro
 
 2. A entrada diz que a explicação institucional não dá dimensão à construção da subjetividade — mas invocar habitus realmente acrescenta poder explicativo, ou apenas redescreve o mesmo problema num nível diferente de abstração? 
 A explicação meramente institucional não permite entender os conflitos entre historia pessoal e estrautural, não fornece elementos para entendermos os conflitos pessoais/subjetivos e o poder da estrutura. Portanto acredito que falar em habitus não e mera tautologia.
+3. "As boas intenções alimentam novas formas de desigualdade" — essa é uma afirmação falsificável? Que evidência contaria contra ela?
+Na verdade, as boas intenções são insuficientes para apagar as desigualdades.
