@@ -19,3 +19,6 @@ Essa categoria é possível, ou o argumento a descarta por design?  O engenheiro
 A explicação meramente institucional não permite entender os conflitos entre historia pessoal e estrautural, não fornece elementos para entendermos os conflitos pessoais/subjetivos e o poder da estrutura. Portanto acredito que falar em habitus não e mera tautologia.
 3. "As boas intenções alimentam novas formas de desigualdade" — essa é uma afirmação falsificável? Que evidência contaria contra ela?
 Na verdade, as boas intenções são insuficientes para apagar as desigualdades.
+5. Se o mecanismo é a incorporação do habitus pela socialização, por que os engenheiros são destacados? Por que não também os usuários, os clientes, os reguladores — todos socializados na mesma estrutura desigual?
+
+Sim, eles são os mais responsáveis, porem não são os únicos. A responsabilidade também e coletiva. Note-se os engenheiros são parcialmente livres, eles tem uma liberdade com margem limitada. 
