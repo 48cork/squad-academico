@@ -22,3 +22,5 @@ Na verdade, as boas intenções são insuficientes para apagar as desigualdades.
 5. Se o mecanismo é a incorporação do habitus pela socialização, por que os engenheiros são destacados? Por que não também os usuários, os clientes, os reguladores — todos socializados na mesma estrutura desigual?
 
 Sim, eles são os mais responsáveis, porem não são os únicos. A responsabilidade também e coletiva. Note-se os engenheiros são parcialmente livres, eles tem uma liberdade com margem limitada. 
+
+7. Há risco de que esse framework, ao distribuir a culpa tão difusamente pela socialização, proteja atores institucionais específicos da responsabilidade? Como respondi anteriormente, engenheiros são os maiores responsaveis, porem sua responsabilidade deve ser compartilhada com o coletivo, pois como mencionado, ele tem uma margem de liberdade limitada.
