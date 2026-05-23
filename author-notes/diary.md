@@ -23,4 +23,10 @@ Na verdade, as boas intenções são insuficientes para apagar as desigualdades.
 
 Sim, eles são os mais responsáveis, porem não são os únicos. A responsabilidade também e coletiva. Note-se os engenheiros são parcialmente livres, eles tem uma liberdade com margem limitada. 
 
+
+6. A entrada vai de "os engenheiros cresceram numa sociedade desigual" para "seu trabalho alimenta a desigualdade" — que passos intermediários estão sendo pulados? É um argumento causal ou uma correlação estrutural disfarçada de causalidade?
+
+
+O habitus do engenheiro entra no sistema de IA porque, em cada escolha tecnica (quaids dados usar, o que o modelodeve aprender a priorizar, como avaliar se ele esta funcionando bem), ele incosciemntemente reproduz os valores, preconveitos e normas da sociedade em que foi formado. Essas escolhas viram codigo, pesos e regras.  Quando o sistema e usado em larga escala, ele repete e amplifica essas visoes de mundo. Nao e correlacao: e um processo tecnico de traducao social para o algoritmico.
+
 7. Há risco de que esse framework, ao distribuir a culpa tão difusamente pela socialização, proteja atores institucionais específicos da responsabilidade? Como respondi anteriormente, engenheiros são os maiores responsaveis, porem sua responsabilidade deve ser compartilhada com o coletivo, pois como mencionado, ele tem uma margem de liberdade limitada.
