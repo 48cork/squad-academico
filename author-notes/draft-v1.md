@@ -5,7 +5,7 @@
 
 ## 1. O problema: estrutura que não precisa de intenção
 
-A inteligência artificial ocupa, no presente momento, uma posição que vai muito além da condição de ferramenta. Ela modela, orienta e, em alguma medida, fabrica subjetividades — e o faz de maneira tanto mais eficaz quanto mais invisível é o mecanismo pelo qual opera. Há, nessa invisibilidade, algo que merece exame cuidadoso.
+A partir do momento em que sistemas de inteligência artificial passaram a mediar, de maneira crescente, decisões que antes pertenciam a instâncias humanas — triagens de emprego, concessão de crédito, monitoramento escolar, distribuição de benefícios sociais —, uma pergunta tornou-se incontornável: quem, afinal, decide o que esses sistemas consideram normal? Este fato não ocorreu por mero acaso, e a extensão do fenômeno tampouco é acidental. O que importa, contudo, não é apenas a velocidade da expansão — é a opacidade do mecanismo pelo qual esses sistemas operam: eles modelam, orientam e, em alguma medida, fabricam subjetividades, e o fazem tanto mais eficazmente quanto menos visíveis são.
 
 O ponto de partida desta reflexão é, em aparência, simples: o habitus algorítmico não precisa atuar como habitus para cumprir sua função. Basta que atue como estrutura. Não é necessário que a IA "jogue o jogo" das desigualdades sociais com intenção ou disposição própria — ela foi treinada por aqueles que jogam, e isso basta. A questão das disposições da IA é, portanto, uma questão derivada. A questão central é outra: quem a criou? Com quais disposições incorporadas? A partir de qual posição no espaço social?
 
@@ -31,7 +31,7 @@ Mas por que eles, especificamente, e não outras categorias igualmente socializa
 
 ## 4. Como as disposições estão tecnicamente incorporadas — RLHF, dados, função de perda
 
-As três dimensões técnicas centrais do processo de desenvolvimento de IA são mutuamente importantes, e cada uma delas interfere no resultado, imprimindo-lhe um viés específico. Não se trata de dimensões alternativas — convivem e se reforçam.
+Cada dimensão técnica imprime seu próprio viés — e as três convivem, acumulando-se sem se anularem. A seleção de dados, o design da função de perda e o RLHF formam um sistema de reforço mútuo, cada um carregando as marcas da posição social de quem o opera: não são dimensões alternativas, são camadas sobrepostas de um mesmo problema estrutural.
 
 Aqueles que selecionam os dados de treinamento podem favorecer recortes que consideram mais normais, mais lógicos, mais representativos — e o fazem a partir de uma posição no espaço social que raramente é explicitada. Os responsáveis pelo design da função de perda são, em sua maioria, oriundos das classes burguesas dos centros econômicos do planeta, particularmente do hemisfério norte (WEST; WHITTAKER; CRAWFORD, 2019). Essa origem não é um detalhe biográfico irrelevante: é a condição de possibilidade de determinadas escolhas técnicas que passam por neutras.
 
@@ -61,11 +61,11 @@ Este fato não ocorre por mero acaso. A IA tem classe social porque foi feita po
 5. **[INSERIR CITAÇÃO] apenas em afirmações de alta carga teórica/empírica** — nunca em interpretações autorais, preservando a distinção entre voz do autor e suporte bibliográfico.
 
 ### Passagens ainda genéricas — alerta
-| Passagem | Razão | Sugestão |
+| Passagem | Razão | Status |
 |---|---|---|
-| "A inteligência artificial ocupa, no presente momento, uma posição que vai muito além da condição de ferramenta." | Abertura convencional do gênero, não distintiva do autor. | Substituir por entrada com ancoragem histórica concreta, no estilo "A partir de [dado/evento]..." |
-| "As três dimensões técnicas centrais do processo de desenvolvimento de IA são mutuamente importantes" | Enumeração neutra sem posicionamento imediato. | Iniciar com a afirmação de viés diretamente: "Cada dimensão técnica imprime seu próprio viés..." |
-| "É uma objeção legítima." (versão anterior) | Concessão limpa demais para o estilo oblíquo do autor. | Já corrigida para "Não seria descabido objetar isso." |
+| Abertura §1 | Convencional → corrigida com ancoragem histórica concreta ("A partir do momento em que...") e marcador "Este fato não ocorreu por mero acaso" | ✅ Resolvida |
+| Abertura §4 | Enumeração neutra → corrigida com afirmação de viés direta ("Cada dimensão técnica imprime seu próprio viés") | ✅ Resolvida |
+| "É uma objeção legítima." (versão anterior) | Concessão limpa demais para o estilo oblíquo do autor | ✅ Resolvida anteriormente |
 
 ---
 
