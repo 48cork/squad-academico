@@ -13,3 +13,7 @@ As três dimensões são multuamente importantes, cada uma delas interfere no re
 1. Se mesmo engenheiros bem-intencionados reproduzem desigualdade através de disposições incorporadas, o que seria um engenheiro "estruturalmente inocente"? 
 
 Essa categoria é possível, ou o argumento a descarta por design?  O engenheiro inocente e aquele que acredita que seu trabalho não será afetado por seu hábitos e disposições. Ele e muito bem intencionado, quer fazer o melhor, porem não tem distanciamento nem censo critico. E ainda que tenha isso não e suficiente para apagar sua historia. Em suma, queiramos ou não somo de alguma forma escravos de nossas disposições e hábitos.  Bourdieu falava que as pessoas que ocupam cargos de chefia ainda que não queira repetir os vícios da burocracia e da jogo do poder acabam por reproduzi-los.
+
+
+2. A entrada diz que a explicação institucional não dá dimensão à construção da subjetividade — mas invocar habitus realmente acrescenta poder explicativo, ou apenas redescreve o mesmo problema num nível diferente de abstração? 
+A explicação meramente institucional não permite entender os conflitos entre historia pessoal e estrautural, não fornece elementos para entendermos os conflitos pessoais/subjetivos e o poder da estrutura. Portanto acredito que falar em habitus não e mera tautologia.
